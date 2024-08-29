@@ -1,0 +1,15 @@
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/bin/Debug/net8.0/Desarrollo_Soft_4
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/bin/Debug/net8.0/Desarrollo_Soft_4.deps.json
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/bin/Debug/net8.0/Desarrollo_Soft_4.runtimeconfig.json
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/bin/Debug/net8.0/Desarrollo_Soft_4.dll
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/bin/Debug/net8.0/Desarrollo_Soft_4.pdb
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.AssemblyInfoInputs.cache
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.AssemblyInfo.cs
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.csproj.CoreCompileInputs.cache
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.sourcelink.json
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.dll
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/refint/Desarrollo_Soft_4.dll
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.pdb
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/Desarrollo_Soft_4.genruntimeconfig.cache
+/Users/michaelportela/Library/Mobile Documents/com~apple~CloudDocs/DS4/Desarrollo_Soft_4/obj/Debug/net8.0/ref/Desarrollo_Soft_4.dll
